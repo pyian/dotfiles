@@ -8,6 +8,9 @@ source /usr/local/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 bindkey '^ ' autosuggest-accept
 bindkey '^[enter' autosuggest-execute
 
+# Vim Keybinding
+bindkey -v
+
 # Path to your oh-my-zsh installation.
 export ZSH="/Users/hokchon/.oh-my-zsh"
 
