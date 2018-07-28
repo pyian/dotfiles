@@ -16,8 +16,8 @@ set ruler   " Show line number
 set relativenumber
 
 " swap : and ;
-nnoremap ; :| nnoremap : ;
-vnoremap ; :| vnoremap : ;
+" nnoremap ; :| nnoremap : ;
+" vnoremap ; :| vnoremap : ;
 
 set backspace=indent,eol,start
 set hidden  " something to do with buffer
