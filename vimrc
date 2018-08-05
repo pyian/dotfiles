@@ -16,7 +16,6 @@ set ruler   " Show line number
 set relativenumber
 
 " From https://gist.github.com/paulrouget/ad44d1a907a668d012d23b0c1bdf72f9
-set background=dark
 hi vertsplit ctermfg=238 ctermbg=235
 hi LineNr ctermfg=242
 hi StatusLine ctermfg=235 ctermbg=245
