@@ -1,5 +1,7 @@
 " VIM Config
 
+hi Normal ctermbg=none
+
 " Basics
 set tabstop=4 softtabstop=4 shiftwidth=4 expandtab autoindent
 set nocompatible    " No Vi compatibility
